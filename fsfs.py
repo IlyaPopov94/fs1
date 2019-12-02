@@ -66,4 +66,4 @@ for keys, values in dicttext.items():
 print(top5)
 uni_words=set(text_lower)
 print('Количество уникальных слов в тексте: ', len(uni_words))
-#1
+#
